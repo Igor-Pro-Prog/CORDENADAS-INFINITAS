@@ -8,17 +8,6 @@ int main() {
     Ponto ponto;
     Poligono poligono = NULL;
   
-  
-  int nome;
-    printf("Digite seu nome: ");
-    scanf("%s",&nome);
-
-    printf("Seja Bem Vindo %s\n", nome);
-
-
-
-
-
     int opcao;
     
     while (1) {

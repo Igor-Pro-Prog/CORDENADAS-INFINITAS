@@ -16,7 +16,7 @@ Poligono criarPoligono();
 int adicionarPontoPoligono(Ponto ponto, Poligono poligono);
 void imprimirPoligono(Poligono poligono);
 Ponto primeiroPontoPoligono(Poligono poligono);
-Ponto removerPontoPoligono(Poligono poligono);
+Ponto removerPontoPoligono(Poligono poligono); // remove o Primeiro ponto adicionado
 int destruirPoligono(Poligono poligono);
 
 double calcularPerimetroPoligono(Poligono poligono);
